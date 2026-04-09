@@ -1,0 +1,5 @@
+revenue_tier,units_sold,total_revenue,pct_of_units
+Entry (<60K),193,10583824.2,16.1
+Mid (60–90K),484,34443305.38,40.3
+Premium (90–120K),280,29416185.95,23.3
+Ultra (>120K),245,32258748.24,20.4
