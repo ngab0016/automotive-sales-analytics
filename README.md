@@ -8,7 +8,7 @@ An end-to-end data analytics pipeline that processes raw automotive dealership s
 
 ## 📊 Live Tableau Dashboards
 
-> 🔗 **[View Live Dashboards on Tableau Public](https://public.tableau.com/app/profile/kelvin.ngabo/viz/AutomotiveSalesAnalytics_17760438858520/ModelInventoryPerformance)**
+> 🔗 **[View Live Dashboards on Tableau Public](https://public.tableau.com/app/profile/kelvin.ngabo/viz/AutomotiveSalesAnalytics_17760438858520/RegionalSalesPerformance)**
 
 | Dashboard | Description |
 |-----------|-------------|
