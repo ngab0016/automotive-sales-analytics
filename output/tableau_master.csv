@@ -1,0 +1,57 @@
+region,total_units_sold,total_revenue,avg_sale_price,min_sale_price,max_sale_price,data_type,month_label,sale_year,sale_month,units_sold,monthly_revenue,avg_price,category,model,revenue_tier,pct_of_units,yoy_revenue_growth_pct,yoy_units_growth_pct,dealer
+Ontario,266.0,23790009.04,89436.12,48057.96,151375.31,Regional Performance,,,,,,,,,,,,,
+Quebec,253.0,22473711.86,88828.9,48230.76,146195.75,Regional Performance,,,,,,,,,,,,,
+Alberta,230.0,21102686.47,91750.81,49076.87,151655.04,Regional Performance,,,,,,,,,,,,,
+Manitoba,242.0,20880576.7,86283.37,49686.81,150525.46,Regional Performance,,,,,,,,,,,,,
+British Columbia,211.0,18455079.7,87464.83,48199.09,152518.31,Regional Performance,,,,,,,,,,,,,
+,,,,,,Monthly Trend,2023-01,2023.0,1.0,57.0,5025582.53,88168.11,,,,,,,
+,,,,,,Monthly Trend,2023-02,2023.0,2.0,44.0,3894214.37,88504.87,,,,,,,
+,,,,,,Monthly Trend,2023-03,2023.0,3.0,46.0,3896140.71,84698.71,,,,,,,
+,,,,,,Monthly Trend,2023-04,2023.0,4.0,53.0,4636826.03,87487.28,,,,,,,
+,,,,,,Monthly Trend,2023-05,2023.0,5.0,54.0,4591386.9,85025.68,,,,,,,
+,,,,,,Monthly Trend,2023-06,2023.0,6.0,54.0,4797622.41,88844.86,,,,,,,
+,,,,,,Monthly Trend,2023-07,2023.0,7.0,50.0,4179048.06,83580.96,,,,,,,
+,,,,,,Monthly Trend,2023-08,2023.0,8.0,47.0,4134179.28,87961.26,,,,,,,
+,,,,,,Monthly Trend,2023-09,2023.0,9.0,65.0,5769411.91,88760.18,,,,,,,
+,,,,,,Monthly Trend,2023-10,2023.0,10.0,42.0,3568954.88,84975.12,,,,,,,
+,,,,,,Monthly Trend,2023-11,2023.0,11.0,47.0,4457098.15,94831.88,,,,,,,
+,,,,,,Monthly Trend,2023-12,2023.0,12.0,32.0,2977393.18,93043.54,,,,,,,
+,,,,,,Monthly Trend,2024-01,2024.0,1.0,52.0,4674266.49,89889.74,,,,,,,
+,,,,,,Monthly Trend,2024-02,2024.0,2.0,45.0,4293692.75,95415.39,,,,,,,
+,,,,,,Monthly Trend,2024-03,2024.0,3.0,45.0,3839525.42,85322.79,,,,,,,
+,,,,,,Monthly Trend,2024-04,2024.0,4.0,60.0,5002346.67,83372.44,,,,,,,
+,,,,,,Monthly Trend,2024-05,2024.0,5.0,43.0,3545687.6,82457.85,,,,,,,
+,,,,,,Monthly Trend,2024-06,2024.0,6.0,51.0,4534278.34,88907.42,,,,,,,
+,,,,,,Monthly Trend,2024-07,2024.0,7.0,50.0,4529902.28,90598.05,,,,,,,
+,,,,,,Monthly Trend,2024-08,2024.0,8.0,50.0,4245124.03,84902.48,,,,,,,
+,,,,,,Monthly Trend,2024-09,2024.0,9.0,62.0,5925464.64,95572.01,,,,,,,
+,,,,,,Monthly Trend,2024-10,2024.0,10.0,55.0,5429738.57,98722.52,,,,,,,
+,,,,,,Monthly Trend,2024-11,2024.0,11.0,48.0,4063584.78,84658.02,,,,,,,
+,,,,,,Monthly Trend,2024-12,2024.0,12.0,50.0,4690593.79,93811.88,,,,,,,
+,,18058409.03,,,,Model Performance,,,,143.0,,126282.58,Coupe,8 Series,,,,,
+,,14512189.06,,,,Model Performance,,,,106.0,,136907.44,Ev,I7,,,,,
+,,11070503.91,,,,Model Performance,,,,95.0,,116531.62,Sedan,7 Series,,,,,
+,,10284130.69,,,,Model Performance,,,,100.0,,102841.31,Suv,X7,,,,,
+,,9936647.2,,,,Model Performance,,,,106.0,,93741.95,Ev,Ix,,,,,
+,,8565216.06,,,,Model Performance,,,,137.0,,62519.83,Coupe,4 Series,,,,,
+,,7922349.17,,,,Model Performance,,,,108.0,,73355.08,Ev,I4,,,,,
+,,7846152.52,,,,Model Performance,,,,100.0,,78461.53,Suv,X5,,,,,
+,,7249576.75,,,,Model Performance,,,,105.0,,69043.59,Sedan,5 Series,,,,,
+,,6198477.17,,,,Model Performance,,,,105.0,,59033.12,Suv,X3,,,,,
+,,5058412.21,,,,Model Performance,,,,97.0,,52148.58,Sedan,3 Series,,,,,
+,,10583824.2,,,,Revenue Tiers,,,,193.0,,,,,Entry (<60K),16.1,,,
+,,34443305.38,,,,Revenue Tiers,,,,484.0,,,,,Mid (60–90K),40.3,,,
+,,29416185.95,,,,Revenue Tiers,,,,280.0,,,,,Premium (90–120K),23.3,,,
+,,32258748.24,,,,Revenue Tiers,,,,245.0,,,,,Ultra (>120K),20.4,,,
+,,51927858.41,,,,YoY Growth,,2023.0,,591.0,,,,,,,,,
+,,54774205.36,,,,YoY Growth,,2024.0,,611.0,,,,,,,5.48,3.38,
+Manitoba,,11001550.16,85283.33,,,Dealer Rankings,,,,129.0,,,,,,,,,Prairie Motors
+Manitoba,,9879026.54,87425.01,,,Dealer Rankings,,,,113.0,,,,,,,,,Winnipeg Auto Centre
+Alberta,,7634677.96,93105.83,,,Dealer Rankings,,,,82.0,,,,,,,,,Edmonton Premier Cars
+Quebec,,7615092.58,90655.86,,,Dealer Rankings,,,,84.0,,,,,,,,,Montreal Auto Group
+Quebec,,7520279.94,84497.53,,,Dealer Rankings,,,,89.0,,,,,,,,,Laval Premium Cars
+Quebec,,7338339.34,91729.24,,,Dealer Rankings,,,,80.0,,,,,,,,,Quebec City Motors
+Alberta,,7082467.71,90800.87,,,Dealer Rankings,,,,78.0,,,,,,,,,Rocky Mountain Motors
+British Columbia,,7016018.81,89948.96,,,Dealer Rankings,,,,78.0,,,,,,,,,Pacific Auto Centre
+Alberta,,6385540.8,91222.01,,,Dealer Rankings,,,,70.0,,,,,,,,,Calgary Auto Hub
+British Columbia,,6323143.32,86618.4,,,Dealer Rankings,,,,73.0,,,,,,,,,Westcoast Dealership
